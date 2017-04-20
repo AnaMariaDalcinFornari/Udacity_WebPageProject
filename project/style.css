@@ -1,0 +1,113 @@
+head
+
+body{
+    padding: 20px 10px;
+    font-family: sans-serif;
+    margin: auto;
+    font-style: normal;
+    background-color: #FFE4E1;
+
+}
+
+h1 {text-align: center;
+    font-size: 20px;
+    color: #C71585;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+    background-color: #48D1CC;
+    border-radius: 10px;
+}
+
+.atom {
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.atom_explicação {
+    position: relative;
+    border-radius: 10px;
+    background-color: #FFB6C1;
+    font-size: 16px;
+    min-height: 150px;
+}
+
+img {
+    max-width: 100px;
+    float: left;
+    padding: 5px;
+}
+div{
+    padding: 0px 10px 0px 10px;
+}
+
+hr {
+    color: #F5F5F5;
+}
+
+.octeto {
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.octeto_explicação{
+        position: relative;
+        border-radius: 10px;
+        background-color: #FFB6C1;
+        font-size: 16px;
+        min-height: 100px;
+}
+
+.tipos {
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.tipos_ligação {
+    position: relative;
+    border-radius: 10px;
+    background-color: #FFB6C1;
+    font-size: 16px;
+    min-height: 100px;
+}
+
+h3 {
+    text-align: left;
+    font-size: 18px;
+    padding: 10px;
+    color: black;
+    padding: 10px;
+    background-color: #48D1CC;
+    border-radius: 10px;
+    max-width: 200px;
+}
+
+.descrição_lig_ion{
+    position: relative;
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+    min-height: 100px;
+}
+
+.descrição_lig_metálica{
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+}
+
+.descrição_lig_covalente{
+    border-style: solid;
+    border-color: #48D1CC;
+    border-radius: 10px;
+}
